@@ -1,0 +1,51 @@
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    float: left;
+    margin-top: 5px;
+    margin-left: 10px;
+  }
+  p {
+    
+  }
+  .navbar {background-color: blue;
+width: 100%;
+position: fixed;
+top: 0;
+left: 0;
+color: gold;
+height: 50px;}
+a {
+    margin: 20px;
+    color: gold;
+    float: right;
+    
+}
+. {
+    width: 45px;
+    height: 45px;
+    background-color: white;
+    border: 2px solid yellow;
+    box-sizing: border-box;
+    text-align: center;
+    line-height: 45px;
+}
+.
+
+h2{;}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;}
+    .box {
+        width: 300px;
+        height: 500px;
+        background-color: #f2f2f2;
+        border: 2px solid yellow;
+        margin: 20px;
+        padding: 20px;
+        text-align: center;
+      }
+      
